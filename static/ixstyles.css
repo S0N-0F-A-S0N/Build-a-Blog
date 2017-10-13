@@ -15,8 +15,14 @@
 }
 
 .error {
-  color: red;
+    color: red;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
 #menu ul {
   margin-top: 2px
     margin: 0px;
